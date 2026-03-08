@@ -2,16 +2,16 @@
 <!ENTITY sectionno "V84">
 <!ENTITY term "Spring">
 <!ENTITY year "2026">
-<!ENTITY withdraw "Day of Week, Month, Day">
+<!ENTITY withdraw "Friday, May, 1">
 <!ENTITY honorific "<abbr>Dr.</abbr>">
-<!ENTITY firstname "Blake">
-<!ENTITY lastname "Farman">
+<!ENTITY firstname "Ann">
+<!ENTITY lastname "Clifton">
 <!ENTITY department "Mathematics and Statistics">
 <!ENTITY institution "Louisiana Tech University">
-<!ENTITY phone "318.257.2951">
-<!ENTITY email "bfarman@latech.edu">
-<!ENTITY website "https://blakefarman.phd">
-<!ENTITY office "Nethken 235">
+<!ENTITY phone "318.257.2164">
+<!ENTITY email "aclifton@latech.edu">
+<!ENTITY website "https://annclifton.phd">
+<!ENTITY office "Bogard 258">
 <!ENTITY book "Book Title">
 <!ENTITY edition "Nth">
 <!ENTITY ISBN "#############">
