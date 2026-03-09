@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <subsection xml:id="make-up_policy" component="exams">
   <title>Make-up Policy</title>
+  
   <p>
+   Students who cannot complete an exam due to a University-related activity or an <alert>excused</alert> absence 
+   must contact me <alert>before</alert> the exam in the case of a University activity or within 72 hours in the 
+   case of an emergency. If a make-up exam is granted, the comprehensive final exam will replace the missed exam grade
+   in addition to counting as the final exam grade. If a make-up exam is not granted, the missed exam will be recorded as a zero.
+  </p>
+  <!-- <p>
     In the event of one missed exam due to absence, the Final Exam can be used to replace the missing exam.
     Further missed exams will result in a grade of zero.
     If a University sponsored activity requires you to miss an exam, you must complete the exam in advance.
   </p>
+-->
 
   <!-- <p> -->
   <!--   Make-up opportunities will only be granted in cases of documented emergencies or university-approved absences (e.g., illness, family emergencies, or official university activities). -->

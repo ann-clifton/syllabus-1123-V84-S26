@@ -2,6 +2,27 @@
 <subsection xml:id="course_topics" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Course Topics</title>
   <p>
-    Course topics go here.
+    <ul>
+      <li>
+        <p>
+          Trigonometric functions
+        </p>
+      </li>
+      <li>
+        <p>
+          Analytic trigonometry
+        </p>
+      </li>
+      <li>
+        <p>
+          Applications of trigonometric functions
+        </p>
+      </li>
+      <li>
+        <p>
+          Trigonometry applied to polar coordinate systems and complex numbers
+        </p>
+      </li>
+    </ul>
   </p>
 </subsection>

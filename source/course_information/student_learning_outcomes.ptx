@@ -2,6 +2,34 @@
 <subsection xml:id="student_learning_outcomes" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Student Learning Outcomes</title>
   <p>
-    Student Learning Outcomes go here
+    After successful completion of this course, students will be able to:
+    <ul>
+      <li>
+        <p>
+        understand the concepts and perform the calculations concerning trigonometric
+functions,
+        </p>
+      </li>
+      <li>
+        <p>
+        solve right triangles and general triangles,
+        </p>
+      </li>
+      <li>
+        <p>
+        apply, verify, and solve trigonometric identities and equations,
+        </p>
+      </li>
+      <li>
+        <p>
+        understand and apply inverse trigonometric functions,
+        </p>
+      </li>
+      <li>
+        <p>
+        understand the connections between trigonometry and complex numbers
+        </p>
+      </li>
+    </ul>
   </p>
 </subsection>

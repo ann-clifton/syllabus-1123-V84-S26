@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <section xml:id="schedule" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Schedule</title>
+  <title>Suggested Schedule</title>
   <xi:include href="week01.ptx"/>
   <xi:include href="week02.ptx"/>
   <xi:include href="week03.ptx"/>
@@ -16,7 +16,8 @@
   <conclusion>
     <warning>
       <p>
-        The instructor reserves the right to modify the schedule as needed.
+      The eTextbook, video tutorials, practice problems, and homework assignments can be found on ALEKS. Homework is due the day before the corresponding Exam.
+      The above schedule is to assist you in keeping pace with the course. Please do not wait until the day before the exam to work through material.
       </p>
     </warning>
   </conclusion>

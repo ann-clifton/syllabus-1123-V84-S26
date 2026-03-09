@@ -8,7 +8,8 @@
   <assemblage>
     <title>Required Textbook</title>
     <p>
-      <pubtitle>&book;</pubtitle>, &edition; edition, by Authors, <init>ISBN</init> &ISBN;.
+      <pubtitle>&book;</pubtitle>, &edition; edition, by Miller and Gerkin, <init>ISBN</init> &ISBN; packaged with ALEKS.
+      ALEKS is required for this course.
     </p>
   </assemblage>
 

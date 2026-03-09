@@ -12,9 +12,9 @@
 <!ENTITY email "aclifton@latech.edu">
 <!ENTITY website "https://annclifton.phd">
 <!ENTITY office "Bogard 258">
-<!ENTITY book "Book Title">
-<!ENTITY edition "Nth">
-<!ENTITY ISBN "#############">
+<!ENTITY book "College Algebra &amp; Trigonometry">
+<!ENTITY edition "2nd">
+<!ENTITY ISBN "978-1-260-26044-1">
 <!ENTITY exam1 "Day of Week, Month Day">
 <!ENTITY exam2 "Day of Week, Month Day">
 <!ENTITY finalexam "Day of Week, Month Day">
