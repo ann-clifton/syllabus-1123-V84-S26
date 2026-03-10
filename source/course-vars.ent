@@ -15,6 +15,7 @@
 <!ENTITY book "College Algebra &amp; Trigonometry">
 <!ENTITY edition "2nd">
 <!ENTITY ISBN "978-1-260-26044-1">
-<!ENTITY exam1 "Day of Week, Month Day">
-<!ENTITY exam2 "Day of Week, Month Day">
-<!ENTITY finalexam "Day of Week, Month Day">
+<!ENTITY exam1 "Tuesday, March 31">
+<!ENTITY exam2 "Thursday, April 23">
+<!ENTITY exam3 "Thursday, May 14">
+<!ENTITY finalexam "Thursday, May 21">
